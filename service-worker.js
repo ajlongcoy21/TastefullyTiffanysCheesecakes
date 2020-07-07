@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TastefullyTiffanysCheesecakes/precache-manifest.15d499f78a33d7ec38ca2e291aa4adf6.js"
+  "/TastefullyTiffanysCheesecakes/precache-manifest.3a655a69409c5c3bfaa0623fe14c001f.js"
 );
 
 self.addEventListener('message', (event) => {
