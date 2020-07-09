@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TastefullyTiffanysCheesecakes/static/css/main.1f64753b.chunk.css",
-    "main.js": "/TastefullyTiffanysCheesecakes/static/js/main.2e134ddf.chunk.js",
-    "main.js.map": "/TastefullyTiffanysCheesecakes/static/js/main.2e134ddf.chunk.js.map",
+    "main.js": "/TastefullyTiffanysCheesecakes/static/js/main.b7189356.chunk.js",
+    "main.js.map": "/TastefullyTiffanysCheesecakes/static/js/main.b7189356.chunk.js.map",
     "runtime-main.js": "/TastefullyTiffanysCheesecakes/static/js/runtime-main.0983450c.js",
     "runtime-main.js.map": "/TastefullyTiffanysCheesecakes/static/js/runtime-main.0983450c.js.map",
     "static/css/2.a1b7a17e.chunk.css": "/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css",
     "static/js/2.213754db.chunk.js": "/TastefullyTiffanysCheesecakes/static/js/2.213754db.chunk.js",
     "static/js/2.213754db.chunk.js.map": "/TastefullyTiffanysCheesecakes/static/js/2.213754db.chunk.js.map",
     "index.html": "/TastefullyTiffanysCheesecakes/index.html",
-    "precache-manifest.e4d9e51040cabdef664007c0eca489b1.js": "/TastefullyTiffanysCheesecakes/precache-manifest.e4d9e51040cabdef664007c0eca489b1.js",
+    "precache-manifest.92db8c73883e871ad4882a28be068cc5.js": "/TastefullyTiffanysCheesecakes/precache-manifest.92db8c73883e871ad4882a28be068cc5.js",
     "service-worker.js": "/TastefullyTiffanysCheesecakes/service-worker.js",
     "static/css/2.a1b7a17e.chunk.css.map": "/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css.map",
     "static/css/main.1f64753b.chunk.css.map": "/TastefullyTiffanysCheesecakes/static/css/main.1f64753b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a1b7a17e.chunk.css",
     "static/js/2.213754db.chunk.js",
     "static/css/main.1f64753b.chunk.css",
-    "static/js/main.2e134ddf.chunk.js"
+    "static/js/main.b7189356.chunk.js"
   ]
 }
