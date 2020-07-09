@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fb939a96b4f8744a0b10b3cc6b17a11",
+    "revision": "99ba3dd30a41b56d3446db83a4a3e399",
     "url": "/TastefullyTiffanysCheesecakes/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css"
   },
   {
-    "revision": "832a917b36ac0b773f8e",
-    "url": "/TastefullyTiffanysCheesecakes/static/css/main.0b72786e.chunk.css"
+    "revision": "2ec094db988c519ab951",
+    "url": "/TastefullyTiffanysCheesecakes/static/css/main.1f64753b.chunk.css"
   },
   {
     "revision": "ebb3d48e972abcdfa1f3",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TastefullyTiffanysCheesecakes/static/js/2.213754db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "832a917b36ac0b773f8e",
+    "revision": "2ec094db988c519ab951",
     "url": "/TastefullyTiffanysCheesecakes/static/js/main.2e134ddf.chunk.js"
   },
   {
